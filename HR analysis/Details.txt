@@ -1,0 +1,19 @@
+overview
+1. project objectives
+	which problem statement you will solve and what are the requirments 
+2. data cleaning
+3. DAX queries
+	how to create rows, columns & table and perform operations on it
+4. dashboard
+5. forecasting  
+ 	sales forecasting
+in last leaning and objectives of that project
+
+=> start
+1. objective
+	Help an organization to improve employee performance and improve
+	employee retention(reduce attrition) by creating a HR analytics dashboard
+
+=> scope of project
+	Is to ask the key factors why the employees are leveing the company
+
